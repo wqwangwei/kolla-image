@@ -1,8 +1,8 @@
 {
     "auth": {	
         "registry.cn-beijing.aliyuncs.com": {
-            "username": "ALIYUN_USERNAME",
-            "password": "ALIYUN_PASSWORD"
+            "username": "USER",
+            "password": "PASS"
         }
     },
     "images": {

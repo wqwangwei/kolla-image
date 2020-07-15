@@ -18,10 +18,10 @@ on:
 env:
   DOCKER_NAMESPACE: kolla
   KOLLA_BASE_DISTRO: centos
-  INSTALL_TYPE: source
+  INSTALL_TYPE: binary
   OPENSTACK_RELEASE: train
   ALIYUN_REGISTRY: registry.cn-beijing.aliyuncs.com
-  ALIYUN_NAMESPACE: sourcekolla
+  ALIYUN_NAMESPACE: binarykolla 
 
 jobs:
   get-kolla-images:
